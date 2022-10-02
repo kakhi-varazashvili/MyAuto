@@ -37,121 +37,141 @@ var arr = [
         mark:"bmw",
         model:"550",
         category: "sedan",
-        year:2010
+        year:2010,
+        price: 5000
     },
     {
         mark:"bmw",
         model:"550",
         category: "jeep",
-        year:2012
+        year:2012,
+        price: 5000
     },
     {
         mark:"bmw",
         model:"550",
         category: "sedan",
-        year:2011
+        year:2011,
+        price: 5000
     },
     {
         mark:"bmw",
         model:"550",
         category: "jeep",
-        year:2012
+        year:2012,
+        price: 5000
     },
     {
         mark:"bmw",
         model:"330",
         category: "sedan",
-        year:2014
-    },
-    {
-        mark:"bmw",
-        model:"330",
-        category: "jeep",
-        year:2012
-    },
-    {
-        mark:"bmw",
-        model:"320",
-        category: "jeep",
-        year:2011
-    },
-    {
-        mark:"bmw",
-        model:"320",
-        category: "sedan",
-        year:2012
-    },
-    {
-        mark:"bmw",
-        model:"320",
-        category: "jeep",
-        year:2011
+        year:2014,
+        price: 5000
     },
     {
         mark:"bmw",
         model:"330",
         category: "sedan",
-        year:2015
+        year:2012,
+        price: 5000
+    },
+    {
+        mark:"bmw",
+        model:"320",
+        category: "sedan",
+        year:2011,
+        price: 5000
+    },
+    {
+        mark:"bmw",
+        model:"320",
+        category: "sedan",
+        year:2012,
+        price: 5000
+    },
+    {
+        mark:"bmw",
+        model:"320",
+        category: "sedan",
+        year:2011,
+        price: 3000
+    },
+    {
+        mark:"bmw",
+        model:"330",
+        category: "sedan",
+        year:2015,
+        price: 5000
     },
     {
         mark:"audi",
         model:"a4",
         category: "jeep",
-        year:2015
+        year: 2015,
+        price: 5000
     },
     {
         mark:"audi",
         model:"a4",
         category: "jeep",
-        year:2015
+        year: 2015,
+        price: 6000
     },
     {
         mark:"audi",
         model:"a4",
         category: "sedan",
-        year:2017
-    },
-    {
-        mark:"audi",
-        model:"a4",
-        category: "jeep",
-        year:2014
-    },
-    {
-        mark:"audi",
-        model:"a4",
-        category: "jeep",
-        year:2017
+        year: 2017,
+        price: 5000
     },
     {
         mark:"audi",
         model:"a4",
         category: "sedan",
-        year:2018
+        year:2014,
+        price: 4000
+    },
+    {
+        mark:"audi",
+        model:"a4",
+        category: "jeep",
+        year:2017,
+        price: 7000
+    },
+    {
+        mark:"audi",
+        model:"a4",
+        category: "sedan",
+        year:2018,
+        price: 7000
     },
     {
         mark:"audi",
         model:"a7",
         category: "jeep",
-        year:2017
+        year:2017,
+        price: 5000
     },
     {
         mark:"audi",
         model:"a7",
         category: "sedan",
-        year:2014
+        year:2014,
+        price: 5000
     },
     {
         mark:"audi",
         model:"a7",
         category: "jeep",
-        year:2017
+        year:2017,
+        price: 5000
     },
     {
         mark:"audi",
         model:"a7",
         category: "sedan",
-        year:2018
+        year:2018,
+        price: 5000
     },
 ]
 
